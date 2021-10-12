@@ -21,7 +21,7 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented **#1 - 4** user stories:
+Here's a walkthrough of implemented **required #1 - 4** user stories:
 
 <img src='week5.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
@@ -30,6 +30,6 @@ Here's a walkthrough of implemented **#1 - 4** user stories:
 
 
 
-Here's a walkthrough of implemented **#5** user stories:
+Here's a walkthrough of implemented **required #5** user stories:
 
 <img src='week5-1.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
