@@ -12,6 +12,8 @@
 		608A779F122E7ABDFE64E3AF /* Pods_instaCloneryTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2099DD88C45BF529E6DF6411 /* Pods_instaCloneryTests.framework */; };
 		E33E7DE6270E6D430069914F /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E33E7DE5270E6D430069914F /* LoginViewController.swift */; };
 		E33E7DEB270E6D520069914F /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E33E7DEA270E6D520069914F /* FeedViewController.swift */; };
+		E33E7DF0271509780069914F /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E33E7DEF271509780069914F /* CameraViewController.swift */; };
+		E33E7DF52715137B0069914F /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E33E7DF42715137B0069914F /* PostCell.swift */; };
 		E39CAAA4270D02F6003CF197 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E39CAAA3270D02F6003CF197 /* AppDelegate.swift */; };
 		E39CAAA6270D02F6003CF197 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E39CAAA5270D02F6003CF197 /* SceneDelegate.swift */; };
 		E39CAAAB270D02F6003CF197 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E39CAAA9270D02F6003CF197 /* Main.storyboard */; };
@@ -50,6 +52,8 @@
 		A9E26002B5CC764C535DE29F /* Pods_instaClonery_instaCloneryUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_instaClonery_instaCloneryUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E33E7DE5270E6D430069914F /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		E33E7DEA270E6D520069914F /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		E33E7DEF271509780069914F /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		E33E7DF42715137B0069914F /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		E39CAAA0270D02F6003CF197 /* instaClonery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = instaClonery.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E39CAAA3270D02F6003CF197 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E39CAAA5270D02F6003CF197 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -149,6 +153,8 @@
 				E39CAAB1270D02F8003CF197 /* Info.plist */,
 				E33E7DE5270E6D430069914F /* LoginViewController.swift */,
 				E33E7DEA270E6D520069914F /* FeedViewController.swift */,
+				E33E7DEF271509780069914F /* CameraViewController.swift */,
+				E33E7DF42715137B0069914F /* PostCell.swift */,
 			);
 			path = instaClonery;
 			sourceTree = "<group>";
@@ -410,9 +416,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				E33E7DE6270E6D430069914F /* LoginViewController.swift in Sources */,
+				E33E7DF0271509780069914F /* CameraViewController.swift in Sources */,
 				E39CAAA4270D02F6003CF197 /* AppDelegate.swift in Sources */,
 				E33E7DEB270E6D520069914F /* FeedViewController.swift in Sources */,
 				E39CAAA6270D02F6003CF197 /* SceneDelegate.swift in Sources */,
+				E33E7DF52715137B0069914F /* PostCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
