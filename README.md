@@ -20,7 +20,7 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the implemented **required** user stories: 41 seconds long GIF
 
 <img src='week6.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
